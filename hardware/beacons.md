@@ -36,6 +36,7 @@ nav_order: 2
 | Samsung SmartTags   | Doesn't work, too much privacy/hashing built in
 | HUAWEI Band 6       | Only works when not connected to a phone
 | HUAWEI Watch GT2    | Only works when not connected to a phone
+| Amazfit GTR 2e      | ESPresense finds the mac of the device, but always shown as not_home in Homa Assistant
 
 ### Add to the list
 
